@@ -1,0 +1,14 @@
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.AssemblyInfoInputs.cache
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.AssemblyInfo.cs
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\net8.0\StudentDailyReport.exe
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\net8.0\StudentDailyReport.deps.json
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\net8.0\StudentDailyReport.runtimeconfig.json
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\net8.0\StudentDailyReport.dll
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\net8.0\StudentDailyReport.pdb
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.dll
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\refint\StudentDailyReport.dll
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.pdb
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\StudentDailyReport.genruntimeconfig.cache
+C:\Users\Rolli\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\net8.0\ref\StudentDailyReport.dll
