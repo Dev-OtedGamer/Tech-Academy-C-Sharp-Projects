@@ -1,0 +1,7 @@
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe.config
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.pdb
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.AssemblyReference.cache
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.exe
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.pdb

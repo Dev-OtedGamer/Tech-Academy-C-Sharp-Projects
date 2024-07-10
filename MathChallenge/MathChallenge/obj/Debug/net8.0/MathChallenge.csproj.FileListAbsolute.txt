@@ -1,0 +1,15 @@
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.AssemblyInfo.cs
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.sourcelink.json
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\net8.0\MathChallenge.exe
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\net8.0\MathChallenge.deps.json
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\net8.0\MathChallenge.runtimeconfig.json
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\net8.0\MathChallenge.dll
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\net8.0\MathChallenge.pdb
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.dll
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\refint\MathChallenge.dll
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.pdb
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\MathChallenge.genruntimeconfig.cache
+C:\Users\Rolli\OneDrive\Documents\GitHub\Tech-Academy-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\net8.0\ref\MathChallenge.dll
