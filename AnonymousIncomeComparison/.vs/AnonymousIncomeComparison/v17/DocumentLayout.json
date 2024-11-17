@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\",
+  "WorkspaceRootPath": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E30DC7-F329-4C22-89F3-3FAB04E0E06D}|AnonymousIncomeComparison\\AnonymousIncomeComparison.csproj|c:\\users\\rolli\\onedrive\\documents\\github\\tech-academy-c-sharp-projects\\anonymousincomecomparison\\anonymousincomecomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47E30DC7-F329-4C22-89F3-3FAB04E0E06D}|AnonymousIncomeComparison\\AnonymousIncomeComparison.csproj|c:\\users\\rolli\\source\\repos\\tech-academy-c-sharp-projects\\anonymousincomecomparison\\anonymousincomecomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E30DC7-F329-4C22-89F3-3FAB04E0E06D}|AnonymousIncomeComparison\\AnonymousIncomeComparison.csproj|solutionrelative:anonymousincomecomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\AnonymousIncomeComparison\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\AnonymousIncomeComparison\\Program.cs",
               "RelativeDocumentMoniker": "AnonymousIncomeComparison\\Program.cs",
-              "ToolTip": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\AnonymousIncomeComparison\\Program.cs",
+              "ToolTip": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\AnonymousIncomeComparison\\AnonymousIncomeComparison\\Program.cs",
               "RelativeToolTip": "AnonymousIncomeComparison\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T01:11:05.133Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\bin\Debug\net8.0\IfElseChallanges.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\bin\Debug\net8.0\IfElseChallanges.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\bin\Debug\net8.0\IfElseChallanges.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\bin\Debug\net8.0\IfElseChallanges.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\bin\Debug\net8.0\IfElseChallanges.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\refint\IfElseChallanges.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\IfElseChallanges.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\IfElseChallanges\IfElseChallanges\obj\Debug\net8.0\ref\IfElseChallanges.dll

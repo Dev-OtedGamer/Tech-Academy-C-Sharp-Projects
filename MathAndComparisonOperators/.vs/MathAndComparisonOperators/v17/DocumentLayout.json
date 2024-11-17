@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\",
+  "WorkspaceRootPath": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28654EB4-98FA-41F7-8736-E9DA7EAD8879}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|c:\\users\\rolli\\onedrive\\documents\\github\\tech-academy-c-sharp-projects\\mathandcomparisonoperators\\mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28654EB4-98FA-41F7-8736-E9DA7EAD8879}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|c:\\users\\rolli\\source\\repos\\tech-academy-c-sharp-projects\\mathandcomparisonoperators\\mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28654EB4-98FA-41F7-8736-E9DA7EAD8879}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|solutionrelative:mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
               "RelativeDocumentMoniker": "MathAndComparisonOperators\\Program.cs",
-              "ToolTip": "C:\\Users\\Rolli\\OneDrive\\Documents\\GitHub\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
               "RelativeToolTip": "MathAndComparisonOperators\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAuAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T02:10:11.11Z",
               "EditorCaption": ""
