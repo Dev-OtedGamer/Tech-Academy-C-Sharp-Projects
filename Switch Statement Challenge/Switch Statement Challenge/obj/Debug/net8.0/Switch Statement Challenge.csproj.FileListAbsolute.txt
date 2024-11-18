@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\bin\Debug\net8.0\Switch Statement Challenge.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\bin\Debug\net8.0\Switch Statement Challenge.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\bin\Debug\net8.0\Switch Statement Challenge.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\bin\Debug\net8.0\Switch Statement Challenge.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\bin\Debug\net8.0\Switch Statement Challenge.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\refint\Switch Statement Challenge.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\Switch Statement Challenge.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Switch Statement Challenge\Switch Statement Challenge\obj\Debug\net8.0\ref\Switch Statement Challenge.dll
