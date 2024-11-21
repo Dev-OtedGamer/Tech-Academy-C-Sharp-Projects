@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\bin\Debug\net8.0\Loops follow along.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\bin\Debug\net8.0\Loops follow along.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\bin\Debug\net8.0\Loops follow along.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\bin\Debug\net8.0\Loops follow along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\bin\Debug\net8.0\Loops follow along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\refint\Loops follow along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\Loops follow along.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Loops follow along\Loops follow along\obj\Debug\net8.0\ref\Loops follow along.dll
