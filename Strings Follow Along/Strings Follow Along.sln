@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings Follow Along", "Strings Follow Along\Strings Follow Along.csproj", "{A6191C03-5D7D-4A03-B259-85A91E92FAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6191C03-5D7D-4A03-B259-85A91E92FAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6191C03-5D7D-4A03-B259-85A91E92FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6191C03-5D7D-4A03-B259-85A91E92FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6191C03-5D7D-4A03-B259-85A91E92FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4436084-FC81-468D-A5D5-3A6A472A6267}
+	EndGlobalSection
+EndGlobal

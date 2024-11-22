@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\bin\Debug\net8.0\Strings Follow Along.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\bin\Debug\net8.0\Strings Follow Along.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\bin\Debug\net8.0\Strings Follow Along.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\bin\Debug\net8.0\Strings Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\bin\Debug\net8.0\Strings Follow Along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\refint\Strings Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\Strings Follow Along.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Strings Follow Along\Strings Follow Along\obj\Debug\net8.0\ref\Strings Follow Along.dll
