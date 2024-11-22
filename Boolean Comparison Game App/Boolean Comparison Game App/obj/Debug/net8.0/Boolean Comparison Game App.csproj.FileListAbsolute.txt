@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\bin\Debug\net8.0\Boolean Comparison Game App.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\bin\Debug\net8.0\Boolean Comparison Game App.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\bin\Debug\net8.0\Boolean Comparison Game App.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\bin\Debug\net8.0\Boolean Comparison Game App.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\bin\Debug\net8.0\Boolean Comparison Game App.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\refint\Boolean Comparison Game App.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\Boolean Comparison Game App.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Boolean Comparison Game App\Boolean Comparison Game App\obj\Debug\net8.0\ref\Boolean Comparison Game App.dll
