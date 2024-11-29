@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\bin\Debug\net8.0\Exception Handling Follow Along.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\bin\Debug\net8.0\Exception Handling Follow Along.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\bin\Debug\net8.0\Exception Handling Follow Along.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\bin\Debug\net8.0\Exception Handling Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\bin\Debug\net8.0\Exception Handling Follow Along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\refint\Exception Handling Follow Along.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\Exception Handling Follow Along.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Exception Handling Follow Along\Exception Handling Follow Along\obj\Debug\net8.0\ref\Exception Handling Follow Along.dll
