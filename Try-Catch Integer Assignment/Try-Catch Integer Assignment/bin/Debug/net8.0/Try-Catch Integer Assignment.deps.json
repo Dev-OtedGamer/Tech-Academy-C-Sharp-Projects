@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Try-Catch Integer Assignment/1.0.0": {
+        "runtime": {
+          "Try-Catch Integer Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try-Catch Integer Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

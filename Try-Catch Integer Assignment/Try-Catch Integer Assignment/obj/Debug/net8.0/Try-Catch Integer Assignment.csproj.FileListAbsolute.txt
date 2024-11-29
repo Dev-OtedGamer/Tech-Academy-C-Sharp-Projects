@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\bin\Debug\net8.0\Try-Catch Integer Assignment.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\bin\Debug\net8.0\Try-Catch Integer Assignment.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\bin\Debug\net8.0\Try-Catch Integer Assignment.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\bin\Debug\net8.0\Try-Catch Integer Assignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\bin\Debug\net8.0\Try-Catch Integer Assignment.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\refint\Try-Catch Integer Assignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\Try-Catch Integer Assignment.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\Try-Catch Integer Assignment\Try-Catch Integer Assignment\obj\Debug\net8.0\ref\Try-Catch Integer Assignment.dll
