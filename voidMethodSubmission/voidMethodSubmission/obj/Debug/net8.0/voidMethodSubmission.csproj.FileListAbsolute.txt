@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\bin\Debug\net8.0\voidMethodSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\bin\Debug\net8.0\voidMethodSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\bin\Debug\net8.0\voidMethodSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\bin\Debug\net8.0\voidMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\bin\Debug\net8.0\voidMethodSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\refint\voidMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\voidMethodSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\voidMethodSubmission\voidMethodSubmission\obj\Debug\net8.0\ref\voidMethodSubmission.dll
