@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\bin\Debug\net8.0\methodSubmissionAssignment.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\bin\Debug\net8.0\methodSubmissionAssignment.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\bin\Debug\net8.0\methodSubmissionAssignment.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\bin\Debug\net8.0\methodSubmissionAssignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\bin\Debug\net8.0\methodSubmissionAssignment.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\refint\methodSubmissionAssignment.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\methodSubmissionAssignment.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\methodSubmissionAssignment\methodSubmissionAssignment\obj\Debug\net8.0\ref\methodSubmissionAssignment.dll
