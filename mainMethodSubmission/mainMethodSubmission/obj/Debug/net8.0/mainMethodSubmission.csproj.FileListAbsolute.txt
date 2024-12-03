@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\bin\Debug\net8.0\mainMethodSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\bin\Debug\net8.0\mainMethodSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\bin\Debug\net8.0\mainMethodSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\bin\Debug\net8.0\mainMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\bin\Debug\net8.0\mainMethodSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\refint\mainMethodSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\mainMethodSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\mainMethodSubmission\mainMethodSubmission\obj\Debug\net8.0\ref\mainMethodSubmission.dll
