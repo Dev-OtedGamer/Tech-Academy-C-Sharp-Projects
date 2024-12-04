@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\mainMethodSubmission\\",
+  "WorkspaceRootPath": "C:\\Users\\Rolli\\OneDrive\\Desktop\\Staging projectflagged\\mainMethodSubmission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|c:\\users\\rolli\\source\\repos\\tech-academy-c-sharp-projects\\mainmethodsubmission\\mainmethodsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|solutionrelative:mainmethodsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|c:\\users\\rolli\\onedrive\\desktop\\staging projectflagged\\mainmethodsubmission\\mainmethodsubmission\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|solutionrelative:mainmethodsubmission\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|c:\\users\\rolli\\source\\repos\\tech-academy-c-sharp-projects\\mainmethodsubmission\\mainmethodsubmission\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|solutionrelative:mainmethodsubmission\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|c:\\users\\rolli\\onedrive\\desktop\\staging projectflagged\\mainmethodsubmission\\mainmethodsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595BADF0-C09A-4F9E-B85B-E24F0CF6E9A7}|mainMethodSubmission\\mainMethodSubmission.csproj|solutionrelative:mainmethodsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Math.cs",
-              "DocumentMoniker": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\mainMethodSubmission\\mainMethodSubmission\\Math.cs",
+              "DocumentMoniker": "C:\\Users\\Rolli\\OneDrive\\Desktop\\Staging projectflagged\\mainMethodSubmission\\mainMethodSubmission\\Math.cs",
               "RelativeDocumentMoniker": "mainMethodSubmission\\Math.cs",
-              "ToolTip": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\mainMethodSubmission\\mainMethodSubmission\\Math.cs",
+              "ToolTip": "C:\\Users\\Rolli\\OneDrive\\Desktop\\Staging projectflagged\\mainMethodSubmission\\mainMethodSubmission\\Math.cs",
               "RelativeToolTip": "mainMethodSubmission\\Math.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:33:05.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\mainMethodSubmission\\mainMethodSubmission\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rolli\\OneDrive\\Desktop\\Staging projectflagged\\mainMethodSubmission\\mainMethodSubmission\\Program.cs",
               "RelativeDocumentMoniker": "mainMethodSubmission\\Program.cs",
-              "ToolTip": "C:\\Users\\Rolli\\source\\repos\\Tech-Academy-C-Sharp-Projects\\mainMethodSubmission\\mainMethodSubmission\\Program.cs*",
-              "RelativeToolTip": "mainMethodSubmission\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rolli\\OneDrive\\Desktop\\Staging projectflagged\\mainMethodSubmission\\mainMethodSubmission\\Program.cs",
+              "RelativeToolTip": "mainMethodSubmission\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T04:28:19.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T04:28:19.694Z"
             }
           ]
         }
