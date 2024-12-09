@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\bin\Debug\net8.0\polymorphismSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\bin\Debug\net8.0\polymorphismSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\bin\Debug\net8.0\polymorphismSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\bin\Debug\net8.0\polymorphismSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\bin\Debug\net8.0\polymorphismSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\refint\polymorphismSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\polymorphismSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\polymorphismSubmission\polymorphismSubmission\obj\Debug\net8.0\ref\polymorphismSubmission.dll

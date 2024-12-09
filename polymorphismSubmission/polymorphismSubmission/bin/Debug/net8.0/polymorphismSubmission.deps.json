@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "polymorphismSubmission/1.0.0": {
+        "runtime": {
+          "polymorphismSubmission.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphismSubmission/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
