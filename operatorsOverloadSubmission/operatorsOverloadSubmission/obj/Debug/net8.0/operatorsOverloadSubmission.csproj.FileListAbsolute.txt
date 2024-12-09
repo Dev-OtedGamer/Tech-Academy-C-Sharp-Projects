@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\bin\Debug\net8.0\operatorsOverloadSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\bin\Debug\net8.0\operatorsOverloadSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\bin\Debug\net8.0\operatorsOverloadSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\bin\Debug\net8.0\operatorsOverloadSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\bin\Debug\net8.0\operatorsOverloadSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\refint\operatorsOverloadSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\operatorsOverloadSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\operatorsOverloadSubmission\operatorsOverloadSubmission\obj\Debug\net8.0\ref\operatorsOverloadSubmission.dll
