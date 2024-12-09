@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\bin\Debug\net8.0\parametersSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\bin\Debug\net8.0\parametersSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\bin\Debug\net8.0\parametersSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\bin\Debug\net8.0\parametersSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\bin\Debug\net8.0\parametersSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\refint\parametersSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\parametersSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parametersSubmission\parametersSubmission\obj\Debug\net8.0\ref\parametersSubmission.dll
