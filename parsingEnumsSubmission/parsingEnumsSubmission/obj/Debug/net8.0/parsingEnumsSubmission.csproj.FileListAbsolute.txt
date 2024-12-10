@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\bin\Debug\net8.0\parsingEnumsSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\bin\Debug\net8.0\parsingEnumsSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\bin\Debug\net8.0\parsingEnumsSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\bin\Debug\net8.0\parsingEnumsSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\bin\Debug\net8.0\parsingEnumsSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\refint\parsingEnumsSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\parsingEnumsSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\parsingEnumsSubmission\parsingEnumsSubmission\obj\Debug\net8.0\ref\parsingEnumsSubmission.dll
