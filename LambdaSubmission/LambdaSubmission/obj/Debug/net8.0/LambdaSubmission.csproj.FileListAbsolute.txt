@@ -1,0 +1,15 @@
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.AssemblyInfoInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.AssemblyInfo.cs
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.sourcelink.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\net8.0\LambdaSubmission.exe
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\net8.0\LambdaSubmission.deps.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\net8.0\LambdaSubmission.runtimeconfig.json
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\net8.0\LambdaSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\bin\Debug\net8.0\LambdaSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\refint\LambdaSubmission.dll
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.pdb
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\LambdaSubmission.genruntimeconfig.cache
+C:\Users\Rolli\source\repos\Tech-Academy-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\net8.0\ref\LambdaSubmission.dll
