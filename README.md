@@ -58,8 +58,7 @@ welcome to my GitHub! here are some of the projects I've worked on while learnin
 **Description:** This program demonstrates polymorphism in C# through the use of an interface called IQuittable and a class Employee that implements this interface.
 
 ## Project 19: [void Division Submission](https://github.com/Dev-OtedGamer/Tech-Academy-C-Sharp-Projects/blob/main/voidDivisionSubmission/voidDivisionSubmission/Program.cs)
-**Description:**This C# program performs a variety of mathematical operations using a class called Math. It demonstrates key concepts such as: Void methods, Out parameters, Method overloading, and Static methods.
+**Description:** This C# program performs a variety of mathematical operations using a class called Math. It demonstrates key concepts such as: Void methods, Out parameters, Method overloading, and Static methods.
 
-
-
-
+## Project 20: [void Method Submission](https://github.com/Dev-OtedGamer/Tech-Academy-C-Sharp-Projects/blob/main/voidMethodSubmission/voidMethodSubmission/Program.cs)
+**Description:** This C# console application demonstrates how to use a void method that accepts two parameters, performs a simple calculation with the first parameter, and displays both values.
